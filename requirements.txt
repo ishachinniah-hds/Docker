@@ -1,0 +1,15 @@
+# requirements.txt
+langchain
+langchain_community
+langchain_core
+langchain_huggingface
+python-dotenv
+pypdf
+transformers
+sentence-transformers
+torch
+scikit-learn
+numpy
+openlit
+chromadb
+docker
